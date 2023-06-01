@@ -1,4 +1,4 @@
-# PCM2TXG
+# PCM2AUX
 WIP custom sysmodule for NX
 
 
